@@ -6,6 +6,8 @@ ESX
 
 mysql-async --> https://github.com/brouznouf/fivem-mysql-async
 
+ox_target --> https://github.com/overextended/ox_target
+
 Usage:
 
 in the config.kraft follow the example:
