@@ -82,7 +82,9 @@ in the config.npc
 	["job"] = {coord = vec3(0, 0, 0),h = 0,model = '', gender = '', maxbuy = 0},
 where
 
+
 in the first bracket you will need to write the job name, it's connected to the krafts -- so if you write in the config.krafts job="admin" then you gona need to write ["admin"]
+
 coord		== the npc koordinates -- x, y, z;;	
 
 h		== heading for the npc;;	
