@@ -2,6 +2,7 @@ Simple Craft System for jobs
 
 Dependencies:
 ESX
+
 mysql-async --> https://github.com/brouznouf/fivem-mysql-async
 
 Usage:
