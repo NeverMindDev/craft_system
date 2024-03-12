@@ -1,4 +1,4 @@
-Simple Craft System for jobs
+Simple Craft System for jobs (I'm bad and it's for educational reason, feel free to edit, or understand how the f.ck is this working) 
 
 Dependencies:
 
